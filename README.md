@@ -1,1 +1,2 @@
-# Meditation-sound-app
+# meditation-app
+Meditation app tutorial
